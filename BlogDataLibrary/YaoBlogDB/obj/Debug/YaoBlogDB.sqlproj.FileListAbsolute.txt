@@ -1,0 +1,10 @@
+C:\Users\jerem\source\repos\BlogDataLibrary\YaoBlogDB\bin\Debug\YaoBlogDB.dacpac
+C:\Users\jerem\source\repos\BlogDataLibrary\YaoBlogDB\bin\Debug\YaoBlogDB.dll
+C:\Users\jerem\source\repos\BlogDataLibrary\YaoBlogDB\bin\Debug\YaoBlogDB.pdb
+C:\Users\jerem\source\repos\BlogDataLibrary\YaoBlogDB\obj\Debug\YaoBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\jerem\source\repos\BlogDataLibrary\YaoBlogDB\obj\Debug\Model.xml
+C:\Users\jerem\source\repos\BlogDataLibrary\YaoBlogDB\obj\Debug\refactor.xml
+C:\Users\jerem\source\repos\BlogDataLibrary\YaoBlogDB\obj\Debug\postdeploy.sql
+C:\Users\jerem\source\repos\BlogDataLibrary\YaoBlogDB\obj\Debug\predeploy.sql
+C:\Users\jerem\source\repos\BlogDataLibrary\YaoBlogDB\obj\Debug\YaoBlogDB.dll
+C:\Users\jerem\source\repos\BlogDataLibrary\YaoBlogDB\obj\Debug\YaoBlogDB.pdb
